@@ -1,2 +1,4 @@
 # code_practice
-code練習用
+yukicoder解答保存場所
+
+https://yukicoder.me/
